@@ -12,7 +12,7 @@ Script to sync a user
 # Instruction
 1. Donwload QRS_SyncUser.ps1 onto Qlik Sense Central node
 2. Follow each bullets stated in ReadMe
-3. Open Windows Powershell and move to the folder where you saved QRS_RunTaskByName.ps1 on Powershell Console
+3. Open Windows Powershell and move to the folder where you saved QRS_SyncUser.ps1 on Powershell Console
 4. Run .\QRS_SyncUser.ps1
 
 # Requirement
